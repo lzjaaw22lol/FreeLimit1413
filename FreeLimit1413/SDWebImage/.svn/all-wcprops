@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageDownloader.m
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/LICENSE
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageManagerDelegate.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDImageCache.h
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageManager.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDImageCache.m
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/README.md
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/UIImageView+WebCache.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/UIImageView+WebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageDownloaderDelegate.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImagePrefetcher.m
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDWebImageDownloader.h
+END
+SDImageCacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10832/teachers/oyangjian/%E7%88%B1%E9%99%90%E5%85%8D/trunk/SDWebImage/SDImageCacheDelegate.h
+END
